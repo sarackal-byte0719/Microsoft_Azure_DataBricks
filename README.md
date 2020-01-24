@@ -1,11 +1,9 @@
 # Microsoft_Azure_DataBricks
 Completed Microsoft Azure DataBricks Training Modules
  
-Create an Azure Notebooks using popular Python libraries to analyze data 
-
 In the modules, I learned:
 
-- A. Use the Python interpreter to execute statements and scripts</a>
+- A. Use the Python interpreter to execute statements and scripts to analyze data</a>
 - B. Explore the choices available to run Python apps</a>	 
 - C. Learn how to declare variables</a>
 - D. Build a simple Python app that takes input and produces output</a>	
